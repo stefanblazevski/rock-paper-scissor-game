@@ -18,5 +18,5 @@ It's an older project of mine in which i wanted to test my knowledge at the time
 
 ## Demo 🚩
 
-![Desktop view](Solar.gif)
+![Desktop view](game.png)
 
