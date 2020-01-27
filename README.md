@@ -1,7 +1,7 @@
 # Rock, Paper, Scissor Game
 
 ## About the project ⭐
-It's an older project of mine in which i wanted to test my knowledge at the time. Hope you enjoy it.
+It's an older project of mine in which i wanted to test my knowledge at that time. Hope you enjoy it.
 
 ## Features ⚡
 * Just a simple rock paper scissor game
